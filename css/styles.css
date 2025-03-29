@@ -173,6 +173,19 @@ a {
   text-decoration: none;
 }
 
+.svg-menu-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 8px;
+  height: 112px;
+  width: 264px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background: #f4f4fd;
+}
+
 .feauteres-section {
   padding-top: 120px;
   padding-bottom: 120px;
